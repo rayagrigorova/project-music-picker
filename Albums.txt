@@ -1,0 +1,1285 @@
+Crazy Frog Presents Crazy Hits
+Crazy Frog
+1
+3
+3
+ZLA10
+100 Kila
+1
+2
+3
+Chekai Malko
+Upsurt
+1
+3
+3
+Etaji
+Molchat Doma 
+1
+1
+1
+Monument
+Molchat Doma 
+1
+1
+1
+Abbey Road
+The Beatles
+1
+2
+3
+Yellow Submarine
+The Beatles
+1
+2
+3
+Help!
+The Beatles
+1
+2
+3
+Songs of Faith and Devotion
+Depeche Mode
+1
+1
+1
+Music for the Masses
+Depeche Mode
+1
+1
+1
+Black Celebration
+Depeche Mode
+1
+1
+1
+Playing the Angel
+Depeche Mode
+1
+1
+1
+Playing the Angel
+Depeche Mode
+1
+1
+1
+Ultra
+Depeche Mode
+1
+1
+1
+Elvis' Golden Records
+Elvis Presley
+1
+3
+3
+Only Theatre of Pain
+Christian Death 
+2
+2
+2
+Nekuv Ujas Nekav Ad
+Hipodil
+2
+3
+3
+Nadurveni Vuglishta
+Hipodil
+2
+3
+3
+Tu Pest
+Hipodil
+2
+3
+3
+Te Tva E
+Kontrol
+2
+3
+3
+Ha-Ha
+Milena
+2
+2
+2
+In The Flat Field
+Bauhaus
+2
+2
+1
+Burning From The Inside
+Bauhaus
+2
+2
+1
+Laugh?I Neraly Bought One 
+Killing Joke
+2
+2
+2
+Belirdi Gece
+She Past Away
+2
+1
+1
+Narin Yalnizlik
+She Past Away
+2
+1
+1
+A Night At The Opera
+Queen 
+2
+3
+3
+A Night At The Opera
+Queen 
+2
+3
+3
+News Of The World
+Queen 
+2
+3
+3
+Jazz
+Queen 
+2
+3
+3
+The Wall
+Pink Floyd
+2
+1
+1
+Wish You Were Here
+Pink Floyd
+2
+1
+1
+The Division Bell
+Pink Floyd
+2
+1
+1
+The Dark Side Of The Moon
+Pink Floyd
+2
+1
+1
+Bleach
+Nirvana 
+2
+3
+2
+In The Court Of The Crimson King
+King Crimson
+2
+1
+1
+Here's Little Richard
+Little Richard
+2
+3
+3
+Are You Experienced 
+Jimi Hendrix
+3
+2
+1
+Axis: Bold As Love  
+Jimi Hendrix
+3
+2
+2
+Electric Ladyland
+Jimi Hendrix
+3
+2
+2
+L.A. Woman
+The Doors
+3
+1
+2
+Led Zeppelin 
+Led Zeppelin
+3
+2
+2
+Led Zeppelin II
+Led Zeppelin
+3
+3
+3
+Led Zeppelin III
+Led Zeppelin
+3
+2
+2
+Led Zeppelin IV
+Led Zeppelin
+3
+2
+2
+Never Mind The Bollocks, Here's The Sex Pistols 
+Sex Pistols
+4
+3
+3
+Living In Darkness
+Agent Orange 
+4
+2
+2
+Wild in the Streets 
+Circle Jerks 
+4
+3
+2
+Milo Goes to College 
+Descendents 
+4
+1
+2
+Everything Sucks
+Descendents 
+4
+1
+2
+Bad Brains
+Bad Brains
+4
+3
+3
+I Against I
+Bad Brains
+4
+2
+2
+Rock for Light
+Bad Brains
+4
+2
+2
+Nervous Breakdown 
+Black Flag
+4
+3
+1
+My War 
+Black Flag
+4
+3
+1
+Damaged
+Black Flag
+4
+3
+2
+Slip It In
+Black Flag
+4
+3
+2
+Adolescents
+Adolescents
+4
+1
+2
+No Control
+Bad Religion
+4
+2
+2
+Still They Pray
+Cough
+4
+1
+1
+Motorhead
+Motorhead
+5
+3
+2
+Ace of Spades
+Motorhead
+5
+3
+3
+Overkill
+Motorhead
+5
+3
+3
+Orgasmatron
+Motorhead
+5
+2
+2
+Iron Maiden
+Iron Maiden 
+5
+2
+2
+Killers
+Iron Maiden 
+5
+2
+2
+The Number of the Beast
+Iron Maiden 
+5
+3
+2
+Powerslave
+Iron Maiden 
+5
+3
+3
+Sad Wings Of Destiny
+Judas Priest
+5
+2
+2
+Sin After Sin
+Judas Priest
+5
+2
+2
+Stained Class
+Judas Priest
+5
+2
+2
+Killing Machine
+Judas Priest
+5
+3
+2
+British Steel
+Judas Priest
+5
+3
+3
+Screaming For Vengeance
+Judas Priest
+5
+3
+3
+Painkiller
+Judas Priest
+5
+3
+3
+Black Sabbath
+Black Sabbath
+5
+1
+1
+Paranoid
+Black Sabbath
+5
+2
+3
+Master of Reality
+Black Sabbath
+5
+2
+1
+Vol. 4
+Black Sabbath
+5
+2
+2
+Sabbath Bloody Sabbath
+Black Sabbath
+5
+2
+2
+Sabotage
+Black Sabbath
+5
+2
+2
+Melissa
+Mercyful Fate 
+5
+3
+2
+Don't Break the Oath
+Mercyful Fate 
+5
+3
+2
+Streetcleaner 
+Godflesh
+5
+1
+1
+KE*A*H**(Psalm 69)
+Ministry
+5
+3
+3
+Life Is Peachy 
+Korn 
+5
+2
+2
+Korn 
+Korn 
+5
+2
+2
+Follow The Leader
+Korn 
+5
+2
+2
+American Apathy 
+Dope 
+5
+3
+3
+No Regrets
+Dope 
+5
+3
+3
+Iowa 
+Slipknot
+5
+3
+2
+All Hope Is Gone
+Slipknot
+5
+3
+2
+Slipknot
+Slipknot
+5
+3
+2
+Sleep's Holy Mountain
+Sleep
+5
+1
+3
+Dopesmoker
+Sleep
+5
+1
+3
+Dopethrone
+Electric Wizard
+5
+1
+2
+Sehnsucht
+Rammstein
+5
+2
+2
+Mutter
+Rammstein
+5
+2
+2
+REISE, REISE
+Rammstein
+5
+2
+2
+ROSENROT
+Rammstein
+5
+2
+2
+RAMMSTEIN
+Rammstein
+5
+2
+2
+Herzeleid
+Rammstein
+5
+3
+2
+ANTI-ICON
+Ghostemane
+5
+2
+1
+Hexada
+Ghostemane
+5
+2
+1
+Plagues
+Ghostemane
+5
+2
+1
+Bloody Kisses
+Type O Negative
+5
+1
+2
+Bloody Kisses
+Type O Negative
+5
+1
+2
+October Rust
+Type O Negative
+5
+1
+2
+World Coming Down
+Type O Negative
+5
+1
+1
+Life Is Killing Me 
+Type O Negative
+5
+1
+1
+Slow, Deep and Hard 
+Type O Negative
+5
+3
+2
+The Origin of the Feces
+Type O Negative
+5
+3
+2
+Carnivore
+Carnivore
+6
+3
+2
+Retaliation
+Carnivore
+6
+3
+2
+Show No Mercy
+Slayer
+6
+3
+3
+Hell Awaits
+Slayer
+6
+2
+3
+Reign In Blood
+Slayer
+6
+3
+3
+Seasons In The Abyss
+Slayer
+6
+1
+2
+God Hates Us All
+Slayer
+6
+3
+3
+The Legacy
+Testament
+6
+2
+2
+The New Order
+Testament
+6
+3
+2
+Practice What You Preach
+Testament
+6
+2
+2
+Souls Of Black
+Testament
+6
+1
+2
+The Ritual
+Testament
+6
+1
+2
+The Gathering
+Testament
+6
+3
+3
+Dark Roots of Earth
+Testament
+6
+2
+2
+Brotherhood of The Snake 
+Testament
+6
+3
+3
+Titans of Creation
+Testament
+6
+2
+2
+Bonded by Blood 
+Exodus
+6
+3
+3
+Pleasures of the Flesh
+Exodus
+6
+2
+2
+Tempo of the Damned
+Exodus
+6
+2
+3
+Shovel Headed Kill Machine
+Exodus
+6
+3
+2
+Killing Is My Business... And Business Is Good!
+Megadeth
+6
+2
+3
+Peace Sells...But Who's Buying?
+Megadeth
+6
+2
+3
+So Far, So Good...So What!
+Megadeth
+6
+2
+2
+Rust in Peace 
+Megadeth
+6
+3
+3
+Ethernal Nightmare
+Vio-Lence
+6
+2
+3
+Infernal Overkill
+Destruction
+6
+3
+3
+Eternal Devastation
+Destruction
+6
+3
+3
+Release From Agony
+Destruction
+6
+2
+3
+Cracked Brain
+Destruction
+6
+3
+3
+Pleasure To Kill
+Kreator
+6
+2
+3
+Extreme Aggression
+Kreator
+6
+2
+2
+The Art of Rebellion
+Suicidal Tendencies
+6
+2
+1
+Terrible Certainty
+Kreator
+6
+2
+2
+Endless Pain
+Kreator
+6
+3
+2
+Alice In Hell
+Annihilator
+6
+2
+2
+The Years Of Decay
+Overkill
+6
+2
+2
+Persecution Mania
+Sodom
+6
+2
+2
+Agent Orange
+Sodom
+6
+2
+2
+Tapping the Vein
+Sodom
+6
+2
+2
+Get What You Deserve
+Sodom
+6
+2
+3
+M-16
+Sodom
+6
+2
+1
+Violent Restitution
+Razor
+6
+3
+3
+Game Over
+Nuclear Assault
+6
+3
+3
+Handle with Care
+Nuclear Assault
+6
+2
+3
+Power and Pain
+Whiplash
+6
+3
+3
+Speak English Or Die
+S.O.D
+6
+3
+3
+Forbidden Evil
+Forbidden
+6
+2
+2
+Slaughter In The Vatican
+Exhorder
+6
+3
+2
+Suicidal Tendencies
+Suicidal Tendencies
+6
+3
+1
+How Will I Laugh Tomorrow When I Can't Even Smile Today
+Suicidal Tendencies
+6
+3
+1
+Lights...Camera...Revolution
+Suicidal Tendencies
+6
+3
+2
+Thrash Zone
+D.R.I
+6
+2
+3
+The Laws Of Scourge
+Sarcofago
+6
+2
+1
+INRI
+Sarcofago
+6
+2
+1
+For Whose Advantage 
+Xentrix
+6
+2
+2
+Violent By Nature
+Atrophy
+6
+2
+2
+Chemical Exposure 
+Sadus
+7
+2
+2
+Swallowed In Black
+Sadus
+7
+2
+2
+The Awakening
+Merciless
+7
+3
+2
+The Treasures Within
+Merciless
+7
+3
+2
+Dreaming with the Dead
+Ripping Corpse
+7
+3
+3
+Final Holocaust
+Massacra
+7
+3
+3
+Enjoy the Violence
+Massacra
+7
+3
+3
+Morbid Visions/Bestial Devastation
+Sepultura
+7
+2
+3
+Schizophrenia
+Sepultura
+7
+3
+2
+Beneath the Remains
+Sepultura
+7
+2
+2
+Arise
+Sepultura
+7
+2
+2
+Chaos A.D
+Sepultura
+7
+1
+2
+Extreme Cold Weather
+Messiah
+7
+3
+2
+Realm of Chaos
+Bolt Thrower
+8
+3
+2
+War Master
+Bolt Thrower
+8
+3
+2
+The IVth Crusade
+Bolt Thrower
+8
+2
+3
+For Victory
+Bolt Thrower
+8
+3
+3
+Mercenary
+Bolt Thrower
+8
+3
+3
+Honor Valour Pride
+Bolt Thrower
+8
+3
+3
+Those Once Loyal
+Bolt Thrower
+8
+2
+3
+Slowly We Rot
+Obituary
+8
+2
+2
+Cause of Death
+Obituary
+8
+2
+3
+Deicide
+Deicide
+8
+3
+2
+Legion
+Deicide
+8
+3
+2
+Once Upon The Cross
+Deicide
+8
+2
+2
+Serpents of the Light 
+Deicide
+8
+2
+2
+In Torment In Hell
+Deicide
+8
+3
+2
+Amonst The Catacombs of Nephren-Ka
+Nile
+8
+3
+3
+Black Seeds of Vengence
+Nile
+8
+3
+3
+In Their Darkened Shrines
+Nile
+8
+3
+3
+Annihilation of the Wicked
+Nile
+8
+3
+3
+Those Whom the Gods Detest
+Nile
+8
+3
+3
+What Should Not Be Unearthed
+Nile
+8
+2
+3
+Vile Nilotic Rites
+Nile
+8
+2
+2
+Resurrection Through Carnage
+Bloodbath
+8
+2
+2
+Nightmares Made Flesh
+Bloodbath
+8
+2
+2
+Dark Age
+Vader
+8
+2
+3
+Eaten Back To Life 
+Cannibal Corpse
+8
+2
+2
+Butchered at Birth
+Cannibal Corpse
+8
+2
+2
+Tomb Of The Mutilated
+Cannibal Corpse
+8
+2
+2
+Dawn of Possession
+Immolation
+8
+1
+2
+None So Vile
+Cryptopsy
+8
+3
+2
+Altars of Madness
+Morbid Angel
+8
+2
+2
+Blessed Are the Sick
+Morbid Angel
+8
+3
+2
+Covenant
+Morbid Angel
+8
+1
+2
+Domination
+Morbid Angel
+8
+1
+2
+Gateways to Annihilation
+Morbid Angel
+8
+3
+3
+The Ten Commandments
+Malevolent Creation
+8
+3
+2
+Retribution
+Malevolent Creation
+8
+3
+3
+Stillborn
+Malevolent Creation
+8
+2
+2
+Necroticism-Descanting the Insalubrious
+Carcass
+8
+3
+3
+Heartwork
+Carcass
+8
+3
+3
+Surgical Steel
+Carcass
+8
+2
+3
+Human Waste 
+Suffocation
+8
+2
+2
+Breeding the Spawn
+Suffocation
+8
+2
+3
+Souls To Deny
+Suffocation
+8
+1
+2
+The Aftermath
+Dystopia
+8
+2
+1
+Dystopia
+Dystopia
+8
+2
+1
+Human = Garbage
+Dystopia
+8
+2
+1
+When The Kite String Pops
+Acid Bath
+8
+2
+1
+Suffocation
+Suffocation
+8
+2
+2
+Blood Oath
+Suffocation
+8
+2
+2
+Effigy of the Forgotten
+Suffocation
+9
+3
+3
+Molesting the Decapitated
+Devourment
+9
+2
+3
+Conceived in Sewage
+Devourment
+9
+3
+3
+Butcher the Weak
+Devourment
+9
+3
+3
+Parallels of Infinite Torture
+Disgorge
+9
+3
+2
+She Lay Gutted
+Disgorge
+9
+3
+2
+Cranial Impalement
+Disgorge
+9
+3
+2
+Voracious Contempt
+Internal Bleeding
+9
+3
+3
+Swamped In Gore
+Broken Hope
+9
+2
+2
+The Bowels of Repugnance
+Broken Hope
+9
+2
+2
+Loathing
+Broken Hope
+9
+3
+3
+Killing on Adrenaline
+Dying Fetus
+9
+3
+2
+Destroy The Opposition
+Dying Fetus
+9
+3
+2
+Stop At Nothing
+Dying Fetus
+9
+3
+2
+Descend Into Depravity
+Dying Fetus
+9
+3
+2
+Prophecies Foretold
+Dehumanized
+9
+3
+3
+Chainsaw Dismemberment
+Mortician
+9
+3
+2
+Hacked Up For Barbeque/Zombie Apocalypse
+Mortician
+9
+3
+2
+Morbid Florist
+Anal Cunt
+10
+3
+3
+Mincer
+Agathocles
+10
+3
+3
+Theatric Symbolisation of Life 
+Agathocles
+10
+3
+3
+Putrefaction in Progress
+Last Days Of Humanity
+10
+3
+3
+Ignorance Exalted
+Fluids
+10
+3
+3
+Behold.Total.Rejection
+Revenge
+10
+3
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
