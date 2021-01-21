@@ -1,4 +1,4 @@
-package Project_01_2021_v1;
+package Project_01_2021_v2;
 
 import java.util.Scanner;
 
