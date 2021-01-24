@@ -173,11 +173,36 @@ Nirvana
 2
 3
 2
+First and Last and Always
+Sisters of Mercy
+2
+1
+2
+Azoic
+Specimen
+2
+2
+3
+Last Exit...
+Ausgang
+2
+2
+2
 In The Court Of The Crimson King
 King Crimson
 2
+2
 1
+Tocsin
+Xmal Deutschland
+2
+2
+2
+Juju
+Siouxsie and the Banshees
+2
 1
+2
 Here's Little Richard
 Little Richard
 2
@@ -488,6 +513,16 @@ Rammstein
 5
 2
 2
+The Serpent's Gold 
+Cathedral
+5
+1
+2
+Death Penalty 
+Witchfinder General
+5
+2
+2
 REISE, REISE
 Rammstein
 5
@@ -783,6 +818,16 @@ Sodom
 6
 2
 2
+Born Too Late
+Saint Vitus
+5
+1
+2
+Saint Vitus
+Saint Vitus
+5
+2
+2
 Get What You Deserve
 Sodom
 6
@@ -1058,6 +1103,101 @@ Cannibal Corpse
 8
 2
 2
+Pocho Aztlan
+Brujeria
+8
+3
+3
+Raza Odiada
+Brujeria
+8
+2
+2
+Matando Gueros
+Brujeria
+8
+2
+3
+Brujerizmo
+Brujeria
+8
+2
+3
+Cross the Styx 
+Sinister
+8
+2
+2
+Diabolical Summoning 
+Sinister
+8
+3
+2
+Hate
+Sinister
+8
+2
+2
+Creative Killings
+Sinister
+8
+3
+2
+Omega Factor
+Killing Addiction
+8
+2
+3
+Those Who Have Risen
+Acheron
+8
+2
+2
+Gloom 
+Macabre
+8
+2
+3
+Grim Reality
+Macabre
+8
+2
+3
+Eroded Corridors of Unbeing
+Spectral Voice
+8
+2
+1
+Steeping Corporeal Mess
+Fetid
+8
+3
+2
+Brave Murder Day
+Katatonia
+8
+1
+1
+For Funerals to Come 
+Katatonia
+8
+1
+1
+Sinister Slaughter
+Macabre
+8
+2
+3
+As the Flowers Withers 
+My Dying Bride
+8
+1
+1
+The Angel & The Dark River
+My Dying Bride
+8
+1
+1
 Butchered at Birth
 Cannibal Corpse
 8
@@ -1078,6 +1218,11 @@ Cryptopsy
 8
 3
 2
+War.Cult.Supremacy
+Conqueror
+10
+3
+3
 Altars of Madness
 Morbid Angel
 8
